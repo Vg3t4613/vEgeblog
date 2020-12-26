@@ -1,45 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vegetabl3.github.io/Veblog.github.io/</id>
-    <title>Gridea</title>
-    <updated>2020-12-20T11:43:08.451Z</updated>
+    <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
+    <title>这个博客功能尚待完善，我太菜了</title>
+    <updated>2020-12-26T17:53:05.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
-    <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
-    <logo>https://vegetabl3.github.io/Veblog.github.io/images/avatar.png</logo>
-    <icon>https://vegetabl3.github.io/Veblog.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
+    <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
+    <subtitle>Don&apos;t want to be Swallowed in the Sea</subtitle>
+    <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
+    <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 这个博客功能尚待完善，我太菜了</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://vegetabl3.github.io/Veblog.github.io/post/hello-gridea/</id>
-        <link href="https://vegetabl3.github.io/Veblog.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[人生理想之一]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/ren-sheng-li-xiang-zhi-yi/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/ren-sheng-li-xiang-zhi-yi/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-12-26T07:42:40.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>实现吃肉自由，像这个高加索大叔一样
+</code></pre>
+<p>https://www.bilibili.com/video/BV1J7411p7ZM<br>
+https://www.bilibili.com/video/BV1tV411y7qT<br>
+https://www.bilibili.com/video/BV1at4y1Y7xZ</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么把always划掉]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/wei-shi-me-ba-always-hua-diao/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/wei-shi-me-ba-always-hua-diao/">
+        </link>
+        <updated>2020-12-26T05:20:57.000Z</updated>
+        <content type="html"><![CDATA[<p>因为是就是，没有时效的说法，你就是对我而言世间上能诞生的最美好的人</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冷知识#2]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/leng-zhi-shi-2/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/leng-zhi-shi-2/">
+        </link>
+        <updated>2020-12-25T18:29:38.000Z</updated>
+        <content type="html"><![CDATA[<p>今天是毛泽东诞辰127周年</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[github桑？]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/github-sang/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/github-sang/">
+        </link>
+        <updated>2020-12-25T16:05:06.000Z</updated>
+        <content type="html"><![CDATA[<p>配置gitalk的过程中不知道触碰了什么条款，被封号了，草</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第十天]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/di-shi-tian/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/di-shi-tian/">
+        </link>
+        <updated>2020-12-25T05:38:22.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>已经有十天没有交流了
+感觉像过了三个月
+</code></pre>
+<p>本来晚上想壮壮胆子邀请她明晚喝奶茶<br>
+但是从今天中午的反应来看是不想理我的了，只好作罢<br>
+虽说这么做违背了信里面说的话吧，但是这也是我这年末的一个小小的愿望</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[圣诞上分计划]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/sheng-dan-shang-fen-ji-hua/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/sheng-dan-shang-fen-ji-hua/">
+        </link>
+        <updated>2020-12-25T04:53:25.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>宣告失败</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Respect V]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/respect-v/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/respect-v/">
+        </link>
+        <updated>2020-12-25T01:44:45.000Z</updated>
+        <content type="html"><![CDATA[<p>售价的话这次冬促的价格可以接受（完全版rmb90）<br>
+歌曲的数目和质量碾压隔壁音灵<br>
+美漫风的主题和ui很get我的点<br>
+美中不足的就是韩风音游曲我8太中意<br>
+而且满等级的谱面我都能初见A，明明有两个side键为啥不用多点，还不如给做musynk那帮人做<br>
+不过作为DJ MAX系列在pc端上的尝试做得是相当好了<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1608889901677.png" alt="" loading="lazy"></p>
+<pre><code>曲包还是一如既往的贵</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas Eve]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/christmas-eve/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/christmas-eve/">
+        </link>
+        <updated>2020-12-24T05:29:10.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>收到来自车队的礼物🎄
+</code></pre>
+<p>然后洗澡的时候把手机外屏摔碎了，得周末出去修一趟</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让时间流转]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/rang-shi-jian-liu-zhuan/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/rang-shi-jian-liu-zhuan/">
+        </link>
+        <updated>2020-12-24T04:59:03.000Z</updated>
+        <content type="html"><![CDATA[<p>翻了翻云盘相册，整理了下，回想起高中不少事情<br>
+高中确实很好玩，至少比我现在好得多<br>
+但是时间是流转的，春夏秋冬各有他们的韵味，像醉翁亭记描写的那样<br>
+所以即使是在我最伤心难受的时期，我也会期待明天，期待会有人把我从漩涡里面捞出来</p>
+<p>我正是在回到学校之后被捞上来的</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做平面设计真的好难]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/zuo-ping-mian-she-ji-zhen-de-hao-nan/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/zuo-ping-mian-she-ji-zhen-de-hao-nan/">
+        </link>
+        <updated>2020-12-24T04:45:32.000Z</updated>
+        <content type="html"><![CDATA[<p>想自己设计个圣诞电子贺卡的背景，带一些圣诞元素的二维扁平化设计，结果连个圣诞树都画不好，只好作罢。看多点参考作品再说。<br>
+by the way我很喜欢分钟物理和Kurzgesagt的那种风格<br>
+<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1608817410095.png" alt="" loading="lazy"><br>
+这个网站图标也是我自己设计的，是第二版，拍了拍脑子，很随意，但也蛮中意的<br>
+by the way第一版长这样<br>
+<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1608817484801.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
