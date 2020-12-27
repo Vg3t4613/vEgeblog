@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-27T06:19:48.542Z</updated>
+    <updated>2020-12-27T06:21:48.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 这个博客功能尚待完善，我太菜了</rights>
+    <entry>
+        <title type="html"><![CDATA[原来汉堡包昨天也去bw了]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/yuan-lai-han-bao-bao-zuo-tian-ye-qu-bw-liao/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/yuan-lai-han-bao-bao-zuo-tian-ye-qu-bw-liao/">
+        </link>
+        <updated>2020-12-26T22:21:16.000Z</updated>
+        <content type="html"><![CDATA[<p>然额我昨天修手机去了，血亏</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我为什么而活]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/wo-wei-shi-me-er-huo/</id>
@@ -113,19 +122,6 @@ https://www.bilibili.com/video/BV1at4y1Y7xZ</p>
         <content type="html"><![CDATA[<pre><code>收到来自车队的礼物🎄
 </code></pre>
 <p>然后洗澡的时候把手机外屏摔碎了，得周末出去修一趟</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让时间流转]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/rang-shi-jian-liu-zhuan/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/rang-shi-jian-liu-zhuan/">
-        </link>
-        <updated>2020-12-24T04:59:03.000Z</updated>
-        <content type="html"><![CDATA[<p>翻了翻云盘相册，整理了下，回想起高中不少事情<br>
-高中确实很好玩，至少比我现在好得多<br>
-但是时间是流转的，春夏秋冬各有他们的韵味，像醉翁亭记描写的那样<br>
-所以即使是在我最伤心难受的时期，我也会期待明天，期待会有人把我从漩涡里面捞出来</p>
-<p>我正是在回到学校之后被捞上来的</p>
 ]]></content>
     </entry>
 </feed>
