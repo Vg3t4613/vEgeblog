@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>be happy</title>
-    <updated>2020-12-27T16:35:31.999Z</updated>
+    <updated>2020-12-27T16:43:21.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -11,13 +11,25 @@
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, be happy</rights>
     <entry>
+        <title type="html"><![CDATA[梦幻联动]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/meng-huan-lian-dong/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/meng-huan-lian-dong/">
+        </link>
+        <updated>2020-12-27T08:42:18.000Z</updated>
+        <content type="html"><![CDATA[<p>草，老莱跟伊朗哥</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[想化身DOOM Slayer]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/xiang-hua-shen-doom-slayer/</id>
         <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/xiang-hua-shen-doom-slayer/">
         </link>
         <updated>2020-12-27T08:29:16.000Z</updated>
         <content type="html"><![CDATA[<p>RIP AND TEAR<br>
-把不爽的东西砸个精光</p>
+把不爽的东西砸个精光<br>
+为守护人类直接弑神<br>
+一切由我自己掌控<br>
+（此处应由电吉他配乐🎶）</p>
 ]]></content>
     </entry>
     <entry>
@@ -109,15 +121,6 @@ https://www.bilibili.com/video/BV1at4y1Y7xZ</p>
         </link>
         <updated>2020-12-25T18:29:38.000Z</updated>
         <content type="html"><![CDATA[<p>今天是毛泽东诞辰127周年</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[github桑？]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/github-sang/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/github-sang/">
-        </link>
-        <updated>2020-12-25T16:05:06.000Z</updated>
-        <content type="html"><![CDATA[<p>配置gitalk的过程中不知道触碰了什么条款，被封号了，草</p>
 ]]></content>
     </entry>
 </feed>
