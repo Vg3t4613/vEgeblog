@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-26T18:00:04.311Z</updated>
+    <updated>2020-12-27T05:56:45.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 这个博客功能尚待完善，我太菜了</rights>
+    <entry>
+        <title type="html"><![CDATA[我为什么而活]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/wo-wei-shi-me-er-huo/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/wo-wei-shi-me-er-huo/">
+        </link>
+        <updated>2020-12-26T20:05:38.000Z</updated>
+        <content type="html"><![CDATA[<p>对于我而言吧，在过了高三以后我逐渐意识到，我的生命注定是为了奉献而活，单单是为了让自己未来享乐远远不足以让我奋斗起来，如果不是有陈老师在我身边，我估计撑不过高三。<br>
+其实我有一个经历一直没跟大家讲的就是，在高三那次教室聚餐完之后，第二天，我精神崩溃了，压死骆驼的最后一根稻草我记得是听到谁的一句嘟囔说我办得不够好，打了个电话回家休息了三天，对小小说我是回去肝守望万圣活动了，真实原因只有我父母知道（升哥问都不问就放我走了）。<br>
+我不是为了制造冲突而存在的，于是我选择承受。确实我做得不够完美，接受批评是应该的，很可惜，没有下一次。</p>
+<p>其实我挺怀念那次打电话的时刻的，那是我长这么大以来第一次放声痛哭，就算我现在回想起那个时刻，我都会酸酸鼻子，并不是我会想起那个时候的委屈，而是我很感激，我有一个这样的，能够理解和关爱我的家庭。</p>
+<p>于是我会一直选择为他人，为我认为值得的人奉献而活。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人生理想之一]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/ren-sheng-li-xiang-zhi-yi/</id>
@@ -110,20 +123,6 @@ https://www.bilibili.com/video/BV1at4y1Y7xZ</p>
 但是时间是流转的，春夏秋冬各有他们的韵味，像醉翁亭记描写的那样<br>
 所以即使是在我最伤心难受的时期，我也会期待明天，期待会有人把我从漩涡里面捞出来</p>
 <p>我正是在回到学校之后被捞上来的</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做平面设计真的好难]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/zuo-ping-mian-she-ji-zhen-de-hao-nan/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/zuo-ping-mian-she-ji-zhen-de-hao-nan/">
-        </link>
-        <updated>2020-12-24T04:45:32.000Z</updated>
-        <content type="html"><![CDATA[<p>想自己设计个圣诞电子贺卡的背景，带一些圣诞元素的二维扁平化设计，结果连个圣诞树都画不好，只好作罢。看多点参考作品再说。<br>
-by the way我很喜欢分钟物理和Kurzgesagt的那种风格<br>
-<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1608817410095.png" alt="" loading="lazy"><br>
-这个网站图标也是我自己设计的，是第二版，拍了拍脑子，很随意，但也蛮中意的<br>
-by the way第一版长这样<br>
-<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1608817484801.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
