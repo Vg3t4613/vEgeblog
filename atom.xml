@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>be happy</title>
-    <updated>2020-12-27T16:20:31.405Z</updated>
+    <updated>2020-12-27T16:35:31.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, be happy</rights>
+    <entry>
+        <title type="html"><![CDATA[想化身DOOM Slayer]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/xiang-hua-shen-doom-slayer/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/xiang-hua-shen-doom-slayer/">
+        </link>
+        <updated>2020-12-27T08:29:16.000Z</updated>
+        <content type="html"><![CDATA[<p>RIP AND TEAR<br>
+把不爽的东西砸个精光</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALL CLEAR]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/all-clear/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/all-clear/">
+        </link>
+        <updated>2020-12-27T08:25:27.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>可以准备迎接新的一年了
+</code></pre>
+<p>曾经的救命稻草，成为了最后的丝联<br>
+把它扯断，将关系完全消除，便是开始的开始</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[愧疚]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/kui-jiu/</id>
@@ -96,29 +118,6 @@ https://www.bilibili.com/video/BV1at4y1Y7xZ</p>
         </link>
         <updated>2020-12-25T16:05:06.000Z</updated>
         <content type="html"><![CDATA[<p>配置gitalk的过程中不知道触碰了什么条款，被封号了，草</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第十天]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/di-shi-tian/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/di-shi-tian/">
-        </link>
-        <updated>2020-12-25T05:38:22.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>已经有十天没有交流了
-感觉像过了三个月
-</code></pre>
-<p>本来晚上想壮壮胆子邀请她明晚喝奶茶<br>
-但是从今天中午的反应来看是不想理我的了，只好作罢<br>
-虽说这么做违背了信里面说的话吧，但是这也是我这年末的一个小小的愿望</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圣诞上分计划]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/sheng-dan-shang-fen-ji-hua/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/sheng-dan-shang-fen-ji-hua/">
-        </link>
-        <updated>2020-12-25T04:53:25.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>宣告失败</code></pre>
 ]]></content>
     </entry>
 </feed>
