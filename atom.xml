@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-27T09:54:35.096Z</updated>
+    <updated>2020-12-27T10:40:45.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 这个博客功能尚待完善，我太菜了</rights>
+    <entry>
+        <title type="html"><![CDATA[愧疚]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/kui-jiu/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/kui-jiu/">
+        </link>
+        <updated>2020-12-27T02:40:06.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>现在填满了我心中任何一个角落</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[楚门的世界]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/chu-men-de-shi-jie/</id>
@@ -110,21 +119,6 @@ https://www.bilibili.com/video/BV1at4y1Y7xZ</p>
         </link>
         <updated>2020-12-25T04:53:25.000Z</updated>
         <content type="html"><![CDATA[<pre><code>宣告失败</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Respect V]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/respect-v/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/respect-v/">
-        </link>
-        <updated>2020-12-25T01:44:45.000Z</updated>
-        <content type="html"><![CDATA[<p>售价的话这次冬促的价格可以接受（完全版rmb90）<br>
-歌曲的数目和质量碾压隔壁音灵<br>
-美漫风的主题和ui很get我的点<br>
-美中不足的就是韩风音游曲我8太中意<br>
-而且满等级的谱面我都能初见A，明明有两个side键为啥不用多点，还不如给做musynk那帮人做<br>
-不过作为DJ MAX系列在pc端上的尝试做得是相当好了<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1608889901677.png" alt="" loading="lazy"></p>
-<pre><code>曲包还是一如既往的贵</code></pre>
 ]]></content>
     </entry>
 </feed>
