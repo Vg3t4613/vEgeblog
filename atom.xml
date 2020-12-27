@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-27T10:44:54.547Z</updated>
+    <updated>2020-12-27T14:04:12.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,18 +10,6 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 这个博客功能尚待完善，我太菜了</rights>
-    <entry>
-        <title type="html"><![CDATA[备忘#记忆力下降]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/bei-wang-ji-yi-li-xia-jiang/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/bei-wang-ji-yi-li-xia-jiang/">
-        </link>
-        <updated>2020-12-27T02:42:50.000Z</updated>
-        <content type="html"><![CDATA[<p>症状：吃晚饭的时候完全不记得中午吃了什么<br>
-挺严重的了，回想这件事是我的习惯，说明记忆力下降了<br>
-上次出现这样的情况就是今年年中<br>
-然而那条备忘被我自信删掉了</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[愧疚]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/kui-jiu/</id>
@@ -122,6 +110,15 @@ https://www.bilibili.com/video/BV1at4y1Y7xZ</p>
 <p>本来晚上想壮壮胆子邀请她明晚喝奶茶<br>
 但是从今天中午的反应来看是不想理我的了，只好作罢<br>
 虽说这么做违背了信里面说的话吧，但是这也是我这年末的一个小小的愿望</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[圣诞上分计划]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/sheng-dan-shang-fen-ji-hua/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/sheng-dan-shang-fen-ji-hua/">
+        </link>
+        <updated>2020-12-25T04:53:25.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>宣告失败</code></pre>
 ]]></content>
     </entry>
 </feed>
