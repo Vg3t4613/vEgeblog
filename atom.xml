@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>be happy</title>
-    <updated>2020-12-27T17:03:01.007Z</updated>
+    <updated>2020-12-28T02:16:08.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, be happy</rights>
+    <entry>
+        <title type="html"><![CDATA[开一个新坑]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/new hole/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/new hole/">
+        </link>
+        <updated>2020-12-28T09:03:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>《新教伦理与资本主义精神》<br>
+之前在百度上找到了电子版，只看了一点点就没看了，刺眼</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>《新教伦理与资本主义精神》<br>
+之前在百度上找到了电子版，只看了一点点就没看了，刺眼</p>
+<!-- more -->
+<p>原本计划要去跟毛概老师比划比划，我看了这一点点之后我都有了很多想法<br>
+可惜它们大多数都不成熟，我觉得还没到能跟毛概老师相互讨论的程度<br>
+现在买了纸质版，没有理由不看了，开冲</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梦幻联动#TVB和B站]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/meng-huan-lian-dong-tvb-he-b-zhan/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/meng-huan-lian-dong-tvb-he-b-zhan/">
+        </link>
+        <updated>2020-12-28T02:13:18.000Z</updated>
+        <content type="html"><![CDATA[<p>做梦都没想到啊这真的<br>
+不过我有点担心这届港主持行8行</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[想化身DOOM Slayer]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/xiang-hua-shen-doom-slayer/</id>
@@ -25,12 +52,13 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[梦幻联动]]></title>
+        <title type="html"><![CDATA[梦幻联动#老莱跟伊朗哥]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/meng-huan-lian-dong/</id>
         <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/meng-huan-lian-dong/">
         </link>
         <updated>2020-12-27T10:42:18.000Z</updated>
-        <content type="html"><![CDATA[<p>草，老莱跟伊朗哥</p>
+        <content type="html"><![CDATA[<p>草，老莱跟伊朗哥<br>
+没啥好说的看就完了</p>
 ]]></content>
     </entry>
     <entry>
@@ -113,24 +141,6 @@ Till my sins are paid</p>
 <p>https://www.bilibili.com/video/BV1J7411p7ZM<br>
 https://www.bilibili.com/video/BV1tV411y7qT<br>
 https://www.bilibili.com/video/BV1at4y1Y7xZ</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么把always划掉]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/wei-shi-me-ba-always-hua-diao/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/wei-shi-me-ba-always-hua-diao/">
-        </link>
-        <updated>2020-12-26T05:20:57.000Z</updated>
-        <content type="html"><![CDATA[<p>因为是就是，没有时效的说法，你就是对我而言世间上能诞生的最美好的人</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冷知识#2]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/leng-zhi-shi-2/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/leng-zhi-shi-2/">
-        </link>
-        <updated>2020-12-25T18:29:38.000Z</updated>
-        <content type="html"><![CDATA[<p>今天是毛泽东诞辰127周年</p>
 ]]></content>
     </entry>
 </feed>
