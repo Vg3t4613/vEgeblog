@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>Don&apos;t want to be Swallowed in the Sea</title>
-    <updated>2021-01-01T17:07:18.631Z</updated>
+    <updated>2021-01-02T09:04:40.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Don&apos;t want to be Swallowed in the Sea</rights>
+    <entry>
+        <title type="html"><![CDATA[Jay Hardway]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/jay-hardway/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/jay-hardway/">
+        </link>
+        <updated>2021-01-02T09:04:31.000Z</updated>
+        <content type="html"><![CDATA[<p>荷兰DJ，跟小马丁是好朋友(不过我不是很想讲小马丁)，给人的感觉平平无奇，百大榜上也是中位<br>
+但是我很欣赏他的一点的就是，他的现场不会让人觉得很枯燥，在碟机的操作上我觉得是胜过很多在他上面的<br>
+害，百大DJ终究还是一个商业榜，所以deadmau5不想上<br>
+这个人的表现就像是zywoo一样，水平很高，但是不会像s1mple那样抢眼，做的Track的旋律不会说像Matisse &amp; Sadko还有DVBBS那样很模板化的，我很主观地判断，是用心写的<br>
+当然也是，更新速度很慢<br>
+他这种平平无奇的高水平也算是我的理想态吧</p>
+<p>2021.1.2追加<br>
+特别推荐他的电台节目inspire radio</p>
+<p>Wake Up<br>
+http://music.163.com/song?id=32924081&amp;userid=106806826</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新年杂谈#2021 vol2]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/xin-nian-za-tan-2021-vol2/</id>
@@ -179,22 +197,6 @@ VeGN:9/10</p>
         </link>
         <updated>2020-12-30T07:37:09.000Z</updated>
         <content type="html"><![CDATA[<p>真的，广州的尘真的多，下午刚擦过的键盘和屏幕，现在又蒙上了一层</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jay Hardway]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/jay-hardway/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/jay-hardway/">
-        </link>
-        <updated>2020-12-30T07:07:44.000Z</updated>
-        <content type="html"><![CDATA[<p>荷兰DJ，跟小马丁是好朋友(不过我不是很想讲小马丁)，给人的感觉平平无奇，百大榜上也是中位<br>
-但是我很欣赏他的一点的就是，他的现场不会让人觉得很枯燥，在碟机的操作上我觉得是胜过很多在他上面的<br>
-害，百大DJ终究还是一个商业榜，所以deadmau5不想上<br>
-这个人的表现就像是zywoo一样，水平很高，但是不会像s1mple那样抢眼，做的Track的旋律不会说像Matisse &amp; Sadko还有DVBBS那样很模板化的，我很主观地判断，是用心写的<br>
-当然也是，更新速度很慢<br>
-他这种平平无奇的高水平也算是我的理想态吧</p>
-<p>Wake Up<br>
-http://music.163.com/song?id=32924081&amp;userid=106806826</p>
 ]]></content>
     </entry>
 </feed>
