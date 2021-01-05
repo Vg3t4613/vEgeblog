@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>Don&apos;t want to be Swallowed in the Sea</title>
-    <updated>2021-01-05T16:06:17.542Z</updated>
+    <updated>2021-01-05T16:55:03.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Don&apos;t want to be Swallowed in the Sea</rights>
+    <entry>
+        <title type="html"><![CDATA[战线延长了]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/zhan-xian-yan-chang-liao/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/zhan-xian-yan-chang-liao/">
+        </link>
+        <updated>2021-01-05T16:53:58.000Z</updated>
+        <content type="html"><![CDATA[<p>因为不想在舍友面前写博客，整个人晚上战线会延长到甚至两点<br>
+废了废了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吸尘器真的是提升生活质量的物件]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/xi-chen-qi-zhen-de-shi-ti-sheng-sheng-huo-zhi-liang-de-wu-jian/</id>
@@ -152,17 +162,6 @@ VeGN:9/10</p>
 说白了，我们都是羡慕，就像 总之就是非常可爱一样 对我们而言是可想而不可求的事，但我们就是爱看，看完之后，借着贤者时间的劲头，还能发出不少感慨，草生<br>
 其实更说白一点，我居然被这个本子治愈了<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1609668857148.jpg" alt="" loading="lazy"></p>
 <p>平平淡淡才是真.jpg<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1609660144323.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偶然的发现#3]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/ou-ran-de-fa-xian-3/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/ou-ran-de-fa-xian-3/">
-        </link>
-        <updated>2021-01-03T10:10:25.000Z</updated>
-        <content type="html"><![CDATA[<p>原来steam游戏掉落的卡牌不仅仅是用来合成徽章的，点开卡牌还会有相应的一张高清官方壁纸<br>
-封面是鲜肉里昂<br>
-永远的男神😭😭😭</p>
 ]]></content>
     </entry>
 </feed>
