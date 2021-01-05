@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>Don&apos;t want to be Swallowed in the Sea</title>
-    <updated>2021-01-04T17:48:41.881Z</updated>
+    <updated>2021-01-05T10:22:42.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Don&apos;t want to be Swallowed in the Sea</rights>
+    <entry>
+        <title type="html"><![CDATA[碎碎念#1]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/sui-sui-nian-1/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/sui-sui-nian-1/">
+        </link>
+        <updated>2021-01-05T10:20:19.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>经过了一晚的治愈之后，接下来的一天都是空虚
+或许是因为内心的赎罪还没完成，我不该有治愈的
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有目标嘛#杂谈]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/you-mu-biao-ma-za-tan/</id>
@@ -153,22 +164,6 @@ DOOM Eternal在DOOM4的基础上，增添了更加丰富的动作，并且优化
 至于为何在DOOM4里面一开始Slayer是被封入石棺的，剧情没讲，应该也是梅克女王干的好事<br>
 Slayer代表的是人类的盛怒，Rage，要Rip and Tear，将破坏美好的东西消灭殆尽<br>
 所有我想化身DOOM Slayer，而不是齐木楠雄</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生化危机3重制版]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/sheng-hua-wei-ji-3-chong-zhi-ban/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/sheng-hua-wei-ji-3-chong-zhi-ban/">
-        </link>
-        <updated>2021-01-02T20:28:54.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>太短了 
-我是傻逼（103人觉得这条评论很欢乐）
-</code></pre>
-<p>生化危机3重置的一个剧情容量和制作完全可以跟生化危机2重置直接做到一个游戏里面去，这操作系统啊ui啊什么这两作是完全相同的，生化危机2他分里昂线和克莱尔线，我能交叉玩四个周目20多个小时去体验完整剧情，生化3就一条线，一个周目就玩了，在地图部分还直接重用了生化2的部分地图，素材更不用说了，这如果不是你卡普空*炒冷饭超人，谁敢卖414，我现在觉得我给他134都亏了</p>
-<p>如果不是对生化危机系列编年史感兴趣的和想自己体验剧情的人就别入了，云了算了</p>
-<p>气啊，VeGN：7.5/10，这7分是给吉尔的<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1609648610670.jpg" alt="" loading="lazy">这一段玩大枪的演出做得我浴霸不能，不愧是动作天尊Capcom<br>
-说起来，卡普空还在3里面吃了点书<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1609648716747.jpg" alt="" loading="lazy">这个地方应该有扇门，里面拿到梅花钥匙和进图书馆（2的内容）<br>
-希望卡普空不要不识好歹。赶紧把机8和生4重置整出来</p>
 ]]></content>
     </entry>
 </feed>
