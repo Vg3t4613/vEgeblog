@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>Don&apos;t want to be Swallowed in the Sea</title>
-    <updated>2021-01-08T15:45:33.402Z</updated>
+    <updated>2021-01-09T05:43:21.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Don&apos;t want to be Swallowed in the Sea</rights>
+    <entry>
+        <title type="html"><![CDATA[Jet Lancer]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/jet-lancer/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/jet-lancer/">
+        </link>
+        <updated>2021-01-08T08:46:45.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>这正是我所说的优秀独立游戏
+</code></pre>
+<p>飞机的操控一开始可能会有不适应的感觉，因为飞机飞行是具有惯性和受重力影响，并不能很随心所欲地进行操作<br>
+不过对于像我这样的老Ace来讲这都不算啥，我ACE Combat都是用键鼠玩的<br>
+在战斗方面就是突出一个爽字，多种武器和配件的搭配可以营造出很多视觉效果<br>
+我最喜欢的是大激光加转换配件，玩出了高达的感觉<br>
+不过爆炸的场景有时候太多了点，连自己和准星在哪都看不见<br>
+这就要吐槽一下为什么不能自定义准星了，白色的准星有时候真的很难看的见<br>
+BGM很好听，很符合游戏基调</p>
+<p>完整的剧情需要体验两个周目，一周目固定假结局，二周目在38关换上骇入模块能触发真结局<br>
+这样的剧情编排在日系游戏使用颇多，点名白金工作室，不过好在都做得很好，让玩家有收集的欲望</p>
+<p>动态视力不好的人慎玩</p>
+<p>VeGN：9.5/10<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1610170550584.jpg" alt="" loading="lazy">黑骑士<br>
+它的真实身份我在一周目的时候没猜出来</p>
+<p>假结局里面，主角关闭限制器与boss同归于尽的那段演出和BGM的配合也是看的我颅内高潮，主角那种赴死也要证明自己在做正确的事的想法传递到了玩家的心中</p>
+<p>封面是真结局的ed</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这几天没啥好想的]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/zhe-ji-tian-mei-sha-hao-xiang-de/</id>
@@ -150,17 +174,6 @@
         <updated>2021-01-04T15:48:53.000Z</updated>
         <content type="html"><![CDATA[<p>现在仅剩每个星期和七海看月曜夜未央了<br>
 😅😅😅</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@！%￥……#ANGRY]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/yangry/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/yangry/">
-        </link>
-        <updated>2021-01-04T10:54:57.000Z</updated>
-        <content type="html"><![CDATA[<p>一个完美无缺的电路，因为不知道不是面包板的原因还是线材规格的原因，在更换了线材和面包板之后完全按预计期望工作上12.11v下-12.01v，但是，离下课还有20分钟，数据测量方式也出了点问题，最后离完成还有一步之遥就差一点点我恨啊<br>
-凎！这真的是这段时间最气的事了真的气死我做模电实验就没有几次器材是正常的</p>
-<p>附带一张电容double kill<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1609779553094.jpg" alt="" loading="lazy">爆的时候挺响的，新年第一炮</p>
 ]]></content>
     </entry>
 </feed>
