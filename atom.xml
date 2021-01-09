@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>Don&apos;t want to be Swallowed in the Sea</title>
-    <updated>2021-01-09T10:17:06.849Z</updated>
+    <updated>2021-01-09T10:18:20.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Don&apos;t want to be Swallowed in the Sea</rights>
-    <entry>
-        <title type="html"><![CDATA[还是只能用打游戏麻痹自己啊]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/huan-shi-zhi-neng-yong-da-you-xi-ma-bi-zi-ji-a/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/huan-shi-zhi-neng-yong-da-you-xi-ma-bi-zi-ji-a/">
-        </link>
-        <updated>2021-01-09T10:15:59.000Z</updated>
-        <content type="html"><![CDATA[<p>你们懂我的痛吗.avi</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[好爽]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/hao-shuang/</id>
@@ -185,6 +176,17 @@ BGM很好听，很符合游戏基调</p>
 吸完之后<img src="https://vg3t4613.github.io/vEgeblog.github.io//post-images/1609862651346.jpg" alt="" loading="lazy"></p>
 <p>说起来这把G610从高二双十一陪我到现在了，在我身边的电子产品里面算长寿了<br>
 如果我有钱，吸尘器我必买戴森的😭</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[碎碎念#1]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/sui-sui-nian-1/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/sui-sui-nian-1/">
+        </link>
+        <updated>2021-01-05T10:20:19.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>经过了一晚的治愈之后，接下来的一天都是空虚
+或许是因为内心的赎罪还没完成，我不该有治愈的
+</code></pre>
 ]]></content>
     </entry>
 </feed>
