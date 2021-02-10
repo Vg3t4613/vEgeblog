@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>Don&apos;t want to be Swallowed in the Sea</title>
-    <updated>2021-02-05T16:56:15.903Z</updated>
+    <updated>2021-02-10T16:07:16.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Don&apos;t want to be Swallowed in the Sea</rights>
+    <entry>
+        <title type="html"><![CDATA[开车一晚#child dream]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/kai-che-yi-wan-child-dream/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/kai-che-yi-wan-child-dream/">
+        </link>
+        <updated>2021-02-10T15:56:14.000Z</updated>
+        <content type="html"><![CDATA[<p>今晚吃团圆饭，我爸妈趁我不注意都喝了几杯，让我开车回家<br>
+没能拍照，爸妈在我不太好意思，虽然他们也有问我要不要拍一张第一次开车发pyq<br>
+看来我他们是早有预谋，开来的是旧的小车，专门不卖用来给我练车的<br>
+自动波开起来就是爽，不用换挡，踩着刹车也不会死火<br>
+其实也挺感慨的，这台车我们家开了16年，从我开始记事的时候就在我们家了</p>
+<p>估计开多两年就要强制报废了，每年我老爸为了维护它的正常运转，维护费和年检花了不少功夫<br>
+所以讲真一句那些开老车的不一定穷，可能他们每个月做维护比供车还贵<br>
+感情挺深的只能说<br>
+可能报废那会，我会伤心得跟送睿睿走一样</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[残念#so close]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/can-nian-so-close/</id>
@@ -185,31 +202,6 @@ VeGN：9/10</p>
 现在监控系统如此发达，我也没有阿比盖尔那样的才智，去闯一番天下<br>
 时不时开个直播，无言打块，就是我表达孤独的唯一方式了<br>
 在MTBI测试里面，尽管没人跟我说过，我选的是“人们倾向于跟我说‘从你的世界里走出来吧’”。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[删除条目]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/shan-chu-tiao-mu/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/shan-chu-tiao-mu/">
-        </link>
-        <updated>2021-01-23T12:55:07.000Z</updated>
-        <content type="html"><![CDATA[<p>现在写的条目有点多，每次同步都要花很长时间，该删掉一些无关紧要的条目了</p>
-<p>脑阔疼 21-1-17<br>
-billboard/新才艺get√ 20-12-23<br>
-GitHub桑？ 20-12-24<br>
-圣诞上分计划 20-12-25<br>
-原来汉堡包也去bw了 20-12-27<br>
-该买个吸尘器 20-12-30<br>
-再见2020 20-12-31<br>
-用可乐送鱼肝油 21-1-12<br>
-冬天模式 21-1-13<br>
-治愈的时间 21-1-04<br>
-开一个新坑 20-12-28<br>
-这几天没啥好想的 21-1-07<br>
-教条式行事（弃稿） 20-12-22<br>
-战线延长了/今天断更 21-1-06<br>
-挺搞笑的突然觉得 21-1-09</p>
-<p>关于》条目有了更新</p>
 ]]></content>
     </entry>
 </feed>
