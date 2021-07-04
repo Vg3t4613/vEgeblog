@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vg3t4613.github.io/vEgeblog.github.io/</id>
     <title>Don&apos;t want to be Swallowed in the Sea</title>
-    <updated>2021-05-14T02:19:24.067Z</updated>
+    <updated>2021-07-04T15:54:15.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vg3t4613.github.io/vEgeblog.github.io/"/>
     <link rel="self" href="https://vg3t4613.github.io/vEgeblog.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://vg3t4613.github.io/vEgeblog.github.io/images/avatar.png</logo>
     <icon>https://vg3t4613.github.io/vEgeblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Don&apos;t want to be Swallowed in the Sea</rights>
+    <entry>
+        <title type="html"><![CDATA[我回来了#]]></title>
+        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/wo-hui-lai-liao/</id>
+        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/wo-hui-lai-liao/">
+        </link>
+        <updated>2021-07-04T15:45:47.000Z</updated>
+        <content type="html"><![CDATA[<p>上一次更新已经是五月份的事情了<br>
+至于为啥这么久没更新，就是单纯的懒罢了，而且新平台没法传大图</p>
+<p>我在自己的OneNote里面其实写了不少东西，现在翻了翻已经把当时想怎么写全忘了</p>
+<p>要在学校留到快8月份才能走，因为车队的事情，还有大创，要忙起来了<br>
+但是我还是没什么干劲，还是在被人推着走<br>
+steam买了不少游戏，没有心情玩，现在玩的大多是阅读文字类和解密类<br>
+cs卸过一次，现在又装了回来，我觉得没必要，因为挡不住一支不会回头的箭而丢掉自己的盾牌</p>
+<p>有好多话想说，但是不知道从何说起，仿佛回到了这个博客创建的初期一般</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新平台]]></title>
         <id>https://vg3t4613.github.io/vEgeblog.github.io/post/xin-ping-tai/</id>
@@ -277,33 +293,6 @@ but something is missing<br>
 潘多拉旁边是一颗冰巨星，我很想在上面插气态行星采集器<br>
 09年的时候显卡算力情况我不太清楚，忘了，其实我全程看下来有种在看3dmark的感觉，那种纹理质感没现在做得精细，但也是相当好了</p>
 <p>接下来指环王3部曲也会重映</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雑谈#3.11]]></title>
-        <id>https://vg3t4613.github.io/vEgeblog.github.io/post/za-tan-311/</id>
-        <link href="https://vg3t4613.github.io/vEgeblog.github.io/post/za-tan-311/">
-        </link>
-        <updated>2021-03-10T16:00:53.000Z</updated>
-        <content type="html"><![CDATA[<p>我估计以后这个博客的更新样式大多都是以这样雑谈的模式出现了</p>
-<p>#overnight--Parcels<br>
-前几天的日推，其实我平时没有看日推的习惯，不知为什么那天正好点了进去，就看到了这首歌，点来听听，看到制作人名单里面daft punk二老的名字赫然在列<br>
-蠢朋克已经解散了，希望两人能在别的地方担任制作人，给流行圈来点新风，憋天天rap了<br>
-再说Parcels这支乐队的风格跟daft punk还蛮像的，特别是Gamesoluck</p>
-<p>#原神到底屎不屎<br>
-我早就已经习惯被人当知乎了，很多玩游戏的跟我聊天这个话题真的问我无数遍<br>
-争议是有的，早期测试期间就被人拎出来大喷特喷，一下子冒出来这么多所谓塞尔达孝子<br>
-正式发行之后，我整了个号来玩，说实话游戏体验我能打个7/10，一分扣在粗糙的贴图，一分扣在gacha内容，一分扣在内容没做完，作为一款免费游戏来说合格的不得了，玩家的沉浸程度我觉得比生化奇兵2还好<br>
-（生化奇兵2的剧情我玩完1之后我是玩不下去的，换了个工作室这个IP直接白给，希望ghostfire能尽快整新作）</p>
-<p>我的结论是不屎，毕竟辐射76都没说是屎，辐射76发行初期内容真的少的离谱优化差特典缩水，一年后居然还能拿这少的离谱的内容说是剧情发展需要，还满合理？反正我也算是贡献了不少游戏时长。原神现在也玩这个套路，之前国庆中秋不搞游戏内活动，说是架空世界观不过这些节，被口诛笔伐，后来出了海灯节，集体gc，我也去蹭了一把，只能说美工nb（胖哥哥nb！），游戏引擎的渲染力度也给力。<br>
-完全自主开发的渲染管线，要是真抄了东半球最强法务部会跟你这么和气还让上ns？<br>
-国内是真的没有任何类似的开发经验，国外工作室也不愿意传授，kojima也是摸爬滚打了好些年才能到现在成为传奇，还是在成熟行业的基础上，mihoyo还远着，至少我在后续的更新内容上看到了诚意<br>
-所以我一直都怀疑那些孝子是鹅肠和猪场的水军，直到前几天两块八的鬼谷八荒被扒出来</p>
-<p>还能说什么，这已经在我心中实锤了呀鹅肠，不是你小子在打压国内工作室还有谁，EA阶段的作品都这么搞，幸好橘子猫技术过硬，戴森球没有惨遭毒手（真的很佩服这个5人工作室，戴森球后期几千条生产线同时运作都不怎么掉帧）<br>
-鹅肠急了</p>
-<p>#说起来<br>
-新教伦理与资本主义精神，我已经放弃了，太晦涩难懂了里面的观点，我看知乎上都是说因为我们所处的环境问题，我们不懂新教天主教之流，就跟我们看不懂乌合麒麟的画那里刺痛了红脖子白皮和土澳一样<br>
-不过有机会还是看下去吧，训练一下大脑的强迫力</p>
 ]]></content>
     </entry>
 </feed>
